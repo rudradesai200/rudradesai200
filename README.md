@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I am Rudra Desai, a second-year student at IIT Madras.
+
+Connect with me on linkedin: https://www.linkedin.com/in/rudradesai/
+
+Vist my personal website: http://www.rudradesai.in/
 
 - 🔭 I’m currently working on CFViewer, a small platform which helps competitive coders practise more and acheive their targets. 
 - 🌱 I’m currently learning NLP.
