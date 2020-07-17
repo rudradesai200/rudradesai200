@@ -2,11 +2,13 @@
 
 I am Rudra Desai, a second-year student at IIT Madras.
 
-<a href="https://www.linkedin.com/in/rudradesai/"><img src="https://image.flaticon.com/icons/svg/1384/1384046.svg" alt="LinkedinConnect" width="20" height="20"></a>
-<a href="https://www.instagram.com/rudra.desai200/"><img src="https://image.flaticon.com/icons/svg/1400/1400829.svg" alt="Instagram" width="20" height="20"></a>
-<a href="http://www.rudradesai.in/"><img src="https://image.flaticon.com/icons/svg/3039/3039761.svg" alt="Portfolio" width="20" height="20"></a>
-<a href="mailto:rudrad200@gmail.com"><img src="https://image.flaticon.com/icons/svg/561/561188.svg" alt="Email" width="20" height="20"></a>
-
+<p align="center">
+	<a href="https://github.com/rudradesai200"><img src="https://img.shields.io/github/followers/rudradesai200?label=Follow&style=social" alt="GitHub Followers"></a>
+	<a href="https://www.linkedin.com/in/rudradesai200"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/rudradesai200"><img src="https://img.shields.io/github/stars/rudradesai200/CFViewer?style=social" alt="GitHub Stars"></a>
+  <a href="mailto:rudrad200@gmail.com"><img src="https://img.shields.io/badge/Email%20Me--_.svg?style=social&logo=gmail" alt="Email Me"></a>
+  <a href="http://www.rudradesai.in/"><img src="https://image.flaticon.com/icons/svg/145/145801.svg" alt="Portfolio" width="20" height="20"></a>
+</p>
 
 - 🔭 I’m currently working on CFViewer, a small platform which helps competitive coders practise more and acheive their targets. 
 - 🌱 I’m currently learning NLP.
