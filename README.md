@@ -7,9 +7,8 @@
 	<a href="https://github.com/rudradesai200"><img src="https://img.shields.io/github/stars/rudradesai200/CFViewer?style=social" alt="GitHub Stars"></a>
 	  <a href="mailto:rudrad200@gmail.com"><img src="https://img.shields.io/badge/Email%20Me--_.svg?style=social&logo=gmail" alt="Email Me"></a>
 	  <a href="http://www.rudradesai.in/"><img src="https://image.flaticon.com/icons/svg/145/145801.svg" alt="Portfolio" width="20" height="20"></a>
+	<img src="https://komarev.com/ghpvc/?username=rudradesai200" alt="rudradesai200" />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudradesai200" alt="rudradesai200" /> </p>
 
 - 🔭 I’m currently working on [ CFViewer](http://www.rudradesai.in/cfviewer)
 
