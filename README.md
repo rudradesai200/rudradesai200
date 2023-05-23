@@ -6,12 +6,11 @@
 	<a href="https://www.linkedin.com/in/rudradesai200"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://github.com/rudradesai200"><img src="https://img.shields.io/github/stars/rudradesai200/CFViewer?style=social" alt="GitHub Stars"></a>
 	  <a href="mailto:rudrad200@gmail.com"><img src="https://img.shields.io/badge/Email%20Me--_.svg?style=social&logo=gmail" alt="Email Me"></a>
-	  <a href="https://rudrad.in/"><img src="https://img.icons8.com/ios/50/portfolio.png" alt="Portfolio" width="20" height="20"></a>
 	<img src="https://komarev.com/ghpvc/?username=rudradesai200" alt="rudradesai200" />
 </p>
 
 
-- 👨‍💻 All of my projects are available at [http://www.rudradesai.in/](http://www.rudradesai.in/)
+- 👨‍💻 All of my projects are available at [https://rudrad.in/](https://rudrad.in/)
 
 - 💬 Ask me about **Python**
 
