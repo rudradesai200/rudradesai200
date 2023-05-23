@@ -6,7 +6,7 @@
 	<a href="https://www.linkedin.com/in/rudradesai200"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://github.com/rudradesai200"><img src="https://img.shields.io/github/stars/rudradesai200/CFViewer?style=social" alt="GitHub Stars"></a>
 	  <a href="mailto:rudrad200@gmail.com"><img src="https://img.shields.io/badge/Email%20Me--_.svg?style=social&logo=gmail" alt="Email Me"></a>
-	  <a href="https://rudrad.in/"><img src="https://image.flaticon.com/icons/svg/145/145801.svg" alt="Portfolio" width="20" height="20"></a>
+	  <a href="https://rudrad.in/"><img src="https://icons8.com/icon/61977/portfolio" alt="Portfolio" width="20" height="20"></a>
 	<img src="https://komarev.com/ghpvc/?username=rudradesai200" alt="rudradesai200" />
 </p>
 
