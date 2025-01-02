@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudra Desai</h1>
-<h3 align="center">Software Developer at Amazon, Sidewalk </h3>
+<h3 align="center">Quant Analyst  at Squarepoint Capital, London </h3>
 
 <p align="center">
 	<a href="https://github.com/rudradesai200"><img src="https://img.shields.io/github/followers/rudradesai200?label=Follow&style=social" alt="GitHub Followers"></a>
